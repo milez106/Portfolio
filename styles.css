@@ -1,7 +1,4 @@
 .header {
-  text-align: center;
-  font-size: 100px;
-  margin-top: 400px;
   font-family: 'Brush Script MT', cursive;
   background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
   -webkit-background-clip: text;
@@ -9,4 +6,7 @@
   -webkit-text-fill-color: transparent;
   color: transparent;
   display: inline-block;
+  text-align: center;
+  font-size: 100px;
+  margin-top: 400px;
 }
